@@ -1,4 +1,4 @@
 # SLUAPT
 | Building Name                         | Walking distance to Doppler in minutes | Website                                                                                                                                   |Price for 2B                              |Google Reviews         |Amenties                                                            |
 |---------------------------------------|------------------------------------|--------------------------------------------------------|----------------------------------------------------|------------------------------------------------|--------------------------------------------------------------------|
-| Radius Apartments                     | 2                                  | [https://www.radiusslu.com/](https://www.radiusslu.com/)       
+| AMLI SLU                     | 17                                  | [https://www.amli.com/apartments/seattle/south-lake-union-apartments/amli-south-lake-union/floorplans/](https://www.amli.com/apartments/seattle/south-lake-union-apartments/amli-south-lake-union/floorplans/) | ~3600 | 3.7       
