@@ -17,7 +17,7 @@
 | Ascent                     | 13                                  | [https://liveascentslu.com/floorplans/](https://liveascentslu.com/floorplans/) | Floor > 10 ~4,200; < 10, ~3,800 (Special Offer: up to 6 weeks free) | 3.7
 | 8th + Republican                   | 14                               | [https://www.essexapartmenthomes.com/apartments/8th-and-republican/](https://www.essexapartmenthomes.com/apartments/8th-and-republican/) |~3300 (有loft房型) | 4.4
 | Modera                  | 14                            | [https://www.moderasouthlakeunion.com/](https://www.moderasouthlakeunion.com/) |~3300 | 4.0 |
-| Dimension                 | 14                            | [https://www.dimensionseattle.com/](https://www.dimensionseattle.com/) |>3200 | 4.2 |luxury | 面向8th ave，早上施工比较吵
+| Dimension                 | 14                            | [https://www.dimensionseattle.com/](https://www.dimensionseattle.com/) |>3200 | 4.2 |luxury, but 没有空调
 | AMLI SLU                     | 17                                  | [https://www.amli.com/apartments/seattle/south-lake-union-apartments/amli-south-lake-union/](https://www.amli.com/apartments/seattle/south-lake-union-apartments/amli-south-lake-union/) | ~3600 | 3.7       
 | Union Bay                 | 19                            | [https://www.unionbayapartments.com/](https://www.unionbayapartments.com/) |~3300 | 4.7 |
 | Alexan 100                 | 20                           | [https://alexan100.com/](https://alexan100.com/) |~3500 | 3.7 |
