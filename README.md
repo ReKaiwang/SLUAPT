@@ -2,8 +2,9 @@
 | Building Name                         | Walking distance to Doppler in minutes | Website                                                                                                                                   |Price for 2B                              |Google Reviews         |Amenties                                                            |
 |---------------------------------------|------------------------------------|--------------------------------------------------------|----------------------------------------------------|------------------------------------------------|--------------------------------------------------------------------|
 | Stratus                   | 3                             | [https://www.stratusseattle.com/](https://www.stratusseattle.com/) |>3800 | 4.6 | luxury
-|Cirrus                 | 3                             | [https://www.cirrusseattle.com/](https://www.cirrusseattle.com/) |>3700 | 3.6 | luxury
+| Cirrus                 | 3                             | [https://www.cirrusseattle.com/](https://www.cirrusseattle.com/) |>3700 | 3.6 | luxury
 | Mckenzie                   | 5                               | [https://mckenzieseattle.com/](https://mckenzieseattle.com/) |>4100 | 4.3  | luxury
+| Aspira                   | 6                               | [https://www.aspiraseattle.com/](https://www.aspiraseattle.com/) |>3500 | 3.4  | luxury (2010 build)
 | Orion                   | 8                               | [https://orionseattle.com/](https://orionseattle.com/) | Currently No avaliable | 4.3
 | Mark on 8th                   | 10                               | [https://www.equityapartments.com/seattle/south-lake-union/mark-on-8th-apartments/](https://www.equityapartments.com/seattle/south-lake-union/mark-on-8th-apartments/) |~3600 | 4.3
 | Marlowe SLU                     | 12                                  | [https://marloweslu.com/](https://marloweslu.com/) | Floor > 5 ~4,200; < 5, ~4,000  | 4.2
