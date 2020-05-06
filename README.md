@@ -6,3 +6,6 @@
 | Ascent                     | 13                                  | [https://liveascentslu.com/floorplans/](https://liveascentslu.com/floorplans/) | Floor > 10 ~4,200; < 10, ~3,800 (Special Offer: up to 6 weeks free) | 3.7
 | Orion                   | 8  (靠近whole food)                               | [https://orionseattle.com/](https://orionseattle.com/) | Currently No avaliable | 4.3
 | Mark on 8th                   | 10                               | [https://www.equityapartments.com/seattle/south-lake-union/mark-on-8th-apartments/](https://www.equityapartments.com/seattle/south-lake-union/mark-on-8th-apartments/) |~3600 | 4.3
+| 8th + Republican                   | 14                               | [https://www.essexapartmenthomes.com/apartments/8th-and-republican/](https://www.essexapartmenthomes.com/apartments/8th-and-republican/) |~3300 (有loft房型) | 4.4
+| Mckenzie                   | 5                               | [https://mckenzieseattle.com/](https://mckenzieseattle.com/) |>4100 | 4.3  | luxury
+| Stratus                   | 3                               | [https://mckenzieseattle.com/](https://mckenzieseattle.com/) |>3800 | 4.6 | luxury
