@@ -1,7 +1,7 @@
 # SLUAPT
 | Building Name                         | Walking distance to Doppler in minutes | Website                                                                                                                                   |Price for 2B                              |Google Reviews         |Amenties                                                            |
 |---------------------------------------|------------------------------------|--------------------------------------------------------|----------------------------------------------------|------------------------------------------------|--------------------------------------------------------------------|
-| Via6                  | 2                            | [https://www.via6seattle.com/](https://www.via6seattle.com/) |> 3000 | 3.4 | 
+| Via6                  | 2                            | [https://www.via6seattle.com/](https://www.via6seattle.com/) |> 3000 | 3.4 | 隔音不好
 | Stratus                   | 3                             | [https://www.stratusseattle.com/](https://www.stratusseattle.com/) |>3800 | 4.6 | luxury
 | Cirrus                 | 3                             | [https://www.cirrusseattle.com/](https://www.cirrusseattle.com/) |>3700 | 3.6 | luxury
 | Mckenzie                   | 5                               | [https://mckenzieseattle.com/](https://mckenzieseattle.com/) |>4100 | 4.3  | luxury
