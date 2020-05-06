@@ -10,3 +10,4 @@
 | Mckenzie                   | 5                               | [https://mckenzieseattle.com/](https://mckenzieseattle.com/) |>4100 | 4.3  | luxury
 | Stratus                   | 3                             | [https://www.stratusseattle.com/](https://www.stratusseattle.com/) |>3800 | 4.6 | luxury
 | Modera                  | 14                            | [https://www.moderasouthlakeunion.com/](https://www.moderasouthlakeunion.com/) |~3300 | 4.0 |
+| Union Bay                 | 19                            | [https://www.unionbayapartments.com/](https://www.unionbayapartments.com/) |~3300 | 4.7 |
