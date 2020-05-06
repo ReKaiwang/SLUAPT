@@ -13,3 +13,4 @@
 | Modera                  | 14                            | [https://www.moderasouthlakeunion.com/](https://www.moderasouthlakeunion.com/) |~3300 | 4.0 |
 | AMLI SLU                     | 17                                  | [https://www.amli.com/apartments/seattle/south-lake-union-apartments/amli-south-lake-union/floorplans/](https://www.amli.com/apartments/seattle/south-lake-union-apartments/amli-south-lake-union/floorplans/) | ~3600 | 3.7       
 | Union Bay                 | 19                            | [https://www.unionbayapartments.com/](https://www.unionbayapartments.com/) |~3300 | 4.7 |
+| Union Bay                 | 20                           | [https://alexan100.com/](https://alexan100.com/) |~3500 | 3.7 |
