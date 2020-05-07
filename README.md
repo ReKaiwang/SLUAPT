@@ -7,6 +7,7 @@
 | Cirrus                 | 3                             | [https://www.cirrusseattle.com/](https://www.cirrusseattle.com/) |>3700 | 3.6 | luxury
 | Mckenzie                   | 5                               | [https://mckenzieseattle.com/](https://mckenzieseattle.com/) |>4100 | 4.3  | 
 | Aspira                   | 6                               | [https://www.aspiraseattle.com/](https://www.aspiraseattle.com/) |>3500 | 3.4  | 不要
+| Kiara                   | 6                               | [https://www.hollandresidential.com/wa/seattle/kiara/](https://www.hollandresidential.com/wa/seattle/kiara/) |>4100 | 4.7| luxury
 | Arrive                 | 6                               | [https://www.arriveseattle.com/](https://www.arriveseattle.com/) |>4100 | 4.4 | luxury
 | Premiere on Pine                   | 9                               | [https://www.hollandresidential.com/premiereonpine/](https://www.hollandresidential.com/premiereonpine/) | >3800 | 4.3| luxury
 | Mark on 8th                   | 10                               | [https://www.equityapartments.com/seattle/south-lake-union/mark-on-8th-apartments/](https://www.equityapartments.com/seattle/south-lake-union/mark-on-8th-apartments/) |~3600 | 4.3| 不要
